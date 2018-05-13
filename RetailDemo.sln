@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientUI", "ClientUI\ClientUI.csproj", "{63A3CAD4-2EB4-478B-8BE5-B79CE78C78D3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Messages", "Messages\Messages.csproj", "{1B0971D5-C434-438C-9E6C-A4DBB543B58D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sales", "Sales\Sales.csproj", "{1C54152F-0A07-4067-8C26-E3A49DB31F64}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{63A3CAD4-2EB4-478B-8BE5-B79CE78C78D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63A3CAD4-2EB4-478B-8BE5-B79CE78C78D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63A3CAD4-2EB4-478B-8BE5-B79CE78C78D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B0971D5-C434-438C-9E6C-A4DBB543B58D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B0971D5-C434-438C-9E6C-A4DBB543B58D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B0971D5-C434-438C-9E6C-A4DBB543B58D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B0971D5-C434-438C-9E6C-A4DBB543B58D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C54152F-0A07-4067-8C26-E3A49DB31F64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C54152F-0A07-4067-8C26-E3A49DB31F64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C54152F-0A07-4067-8C26-E3A49DB31F64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C54152F-0A07-4067-8C26-E3A49DB31F64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
